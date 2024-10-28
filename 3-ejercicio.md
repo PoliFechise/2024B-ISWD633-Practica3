@@ -42,4 +42,4 @@ Ruta carpeta host: .../ejercicio3/www
 
 ### Eliminar el contenedor y crearlo nuevamente, ¿qué ha sucedido?
 
-# COMPLETAR CON LA RESPUESTA A LA PREGUNTA
+# Se ha mantenido la configuración en wordpress, entonces ya no fue necesario volver a configurar.
